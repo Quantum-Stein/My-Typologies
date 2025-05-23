@@ -7,18 +7,16 @@ Links:
 Created: 2025-05-06T00:05:41
 ---
 > [!note] Typology
-> ### 𝙄𝙉𝙏𝙅 - 5𝙬4 - 𝙎𝙊5 - 514 - 𝙄𝙉(𝙏) - 𝙄𝙇𝙄-2𝙉𝙞 [𝙎𝙒𝙎] - 𝙄𝙇𝙄-𝘾𝙉𝘿𝙃-𝙏 [𝙎𝙃𝙎] -  𝙄𝙇𝙀 [𝙎𝘾𝙎] - 𝙇²𝙑³𝙀⁴𝙁² - 𝙑𝘽𝙋𝙉 - 𝙈𝙚𝙡𝙖𝙣𝙘𝙝𝙤𝙡𝙞𝙘-𝙋𝙝𝙡𝙚𝙜𝙢𝙖𝙩𝙞𝙘 - 𝙍𝙘𝙤𝙚|𝙄| -  𝙏𝙧𝙪𝙚 𝙉𝙚𝙪𝙩𝙧𝙖𝙡
+> ### 𝙄𝙉𝙏𝙋 - 5𝙬4 - 𝙎𝙊5 - 𝙋541 - 𝙄𝙉(𝙏) - 𝙄𝙇𝙄-𝘾𝙉𝘿𝙃-𝙏 [𝙎𝙃𝙎] - 𝙄𝙇𝙀 [𝙎𝘾𝙎] - 𝙇²𝙑³𝙀⁴𝙁² - 𝙑𝘽𝙉𝙋 - 𝙈𝙚𝙡𝙖𝙣𝙘𝙝𝙤𝙡𝙞𝙘-𝙋𝙝𝙡𝙚𝙜𝙢𝙖𝙩𝙞𝙘 - 𝙍𝙘𝙤𝙚|𝙄| - 𝙏𝙧𝙪𝙚 𝙉𝙚𝙪𝙩𝙧𝙖𝙡 - 𝙏𝙝𝙚 𝙃𝙚𝙧𝙢𝙞𝙩 (𝙄𝙓)
 ### Socionics, Jungian, MBTI
 ---
-**SWS:** ILI-2Ni
-
 **SHS:** ILI-CNDH-T
 
 **SCS:** ILE
 
 **Jungian:** IN(T) (Ni + Ti)
 
-**MBTI:** INTJ
+**MBTI:** INTP
 
 ### Enneagram
 ---
@@ -40,7 +38,7 @@ Created: 2025-05-06T00:05:41
 
 **SLOAN:** Rcoe|I|
 
-**Temporistics:** VBPN
+**Temporistics:** VBNP
 
 **Moral Alignment:** True Neutral
 
