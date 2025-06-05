@@ -4,7 +4,7 @@ This repository provides a detailed breakdown of various personality typology sy
 ## Typologies Covered:
 MBTI (Myers-Briggs Type Indicator): A Neo-Jungian personality theory that classifies individuals into 16 types based on four preference pairs: Extraversion/Introversion, Sensing/Intuition, Thinking/Feeling, and Judging/Perceiving.
 
-Socionics: Developed by Aušra Augustinavičiūtė, this theory builds upon Jung’s ideas and Antoni Kępiński’s Information Metabolism theory. It categorizes people into 16 types, highlighting strengths, weaknesses, and how individuals process and exchange information socially.
+Socionics: Developed by Aušra Augustinavičiūtė, this theory builds upon Jung’s ideas and Antoni Kępiński’s Information Metabolism theory. It categorizes people into 16 types, highlighting strengths, weaknesses, and how individuals process and exchange information in the environment.
 
 Classic Jungian: Based on Carl Jung's foundational work in Psychological Types, this system identifies eight personality types through a combination of Extraversion/Introversion and four cognitive functions: Sensing/Intuition and Thinking/Feeling.
 
